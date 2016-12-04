@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 public class Main {
-    public static void main(String[] args) throws IOException{/
+    public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new FileReader("-")); //filepath omitted
         int sum = 0;
         String letters="";
