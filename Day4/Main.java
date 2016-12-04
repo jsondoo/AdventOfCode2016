@@ -9,9 +9,8 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 public class Main {
-    public static void main(String[] args) throws IOException{
-        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\-\\Desktop\\Code\\Day4\\src\\input.txt")); //removed name from file path
-
+    public static void main(String[] args) throws IOException{/
+        BufferedReader br = new BufferedReader(new FileReader("-")); //filepath omitted
         int sum = 0;
         String letters="";
         Integer sectorID = null;
@@ -21,24 +20,51 @@ public class Main {
         Pattern regex = Pattern.compile("((([a-z]+-)+)(\\d{3}))(\\[([a-z]{5})\\])");
 
         while((inputLine = br.readLine())!=null){
-            // method argument for matcher.group signifies the nth capturing group in the regex
-            // use the patterns and matcher to initialize the letters, sectorID, and checksum
             Matcher matcher = regex.matcher(inputLine);
-            if(matcher.find()){
-                letters = matcher.group(2).replace("-","");
+            if(matcher.find()){ // use regex to initialize letters, sectorID, and checksum
+                letters = matcher.group(2);
                 sectorID = Integer.valueOf(matcher.group(4));
                 checksum = matcher.group(6);
             }
 
-            String expectedCheckSum = getExpectedCheckSum(letters);
+
+            String expectedCheckSum = getExpectedCheckSum(letters.replace("-",""));
             if(expectedCheckSum.equals(checksum)) {
                 sum += sectorID;
+
+                // part 2
+                decrypt(letters, sectorID);
             }
         }
 
-        // print answer
-        System.out.println(sum);
+        // print part 1 answer
+        System.out.println("Sum of sectorID of valid rooms: "+sum);
     }
+
+    public static void decrypt(String str, int sID) {
+        int rotate = sID % 26; // number of times to rotate
+        str = str.replace("-", " ").trim();
+        while(rotate>0){
+            String temp = "";
+            for (char ch : str.toCharArray()) {
+                if (ch == 'z') {
+                    temp += "a";
+                } else if (ch == ' ') {
+                    temp += " ";
+                } else {
+                    temp += Character.toString(++ch); // increase ASCII code by one
+                }
+            }
+            str = temp;
+            rotate--;
+        }
+
+        if(str.contains("north")) { // print part 2 answer
+            System.out.println("North Pole Object Storage Sector ID: "+sID);
+        }
+
+    }
+
 
     // returns the expected checksum given the letters
     // special thanks to stackoverflow
