@@ -1,5 +1,7 @@
-# AdventOfCode2017# AdventOfCode2017
-My attempt at the problems at [Advent Of Code 2016](http://adventofcode.com/2016)
+# AdventOfCode2017#
+My attempt at the problems at [Advent Of Code 2016](http://adventofcode.com/2016).
+
+
 
 <h1>Progress Table</h1>
 Day                                        | Done? | Notes (Comments / Stuff I learned)
@@ -7,7 +9,7 @@ Day                                        | Done? | Notes (Comments / Stuff I l
 [01](http://adventofcode.com/2016/day/1)   |   ✓   | -
 [02](http://adventofcode.com/2016/day/2)   |   ✓   | Used enum and 2D arrays
 [03](http://adventofcode.com/2016/day/3)   |   ✓   | Learned to use basic file IO
-[04](http://adventofcode.com/2016/day/4)   |   ✓   | 
+[04](http://adventofcode.com/2016/day/4)   |   ✓   | Used regular expressions 
 [05](http://adventofcode.com/2016/day/5)   |       | 
 [06](http://adventofcode.com/2016/day/6)   |       | 
 [07](http://adventofcode.com/2016/day/7)   |       | 
