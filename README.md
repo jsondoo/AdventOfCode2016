@@ -6,13 +6,13 @@ My attempt at the problems at [Advent Of Code 2016](http://adventofcode.com/2016
 <h1>Progress Table</h1>
 Day                                        | Done? | Notes (Comments / Stuff I learned)
 -------------------------------------------|-------|-----------------------------------------------------------
-[01](http://adventofcode.com/2016/day/1)   |   ✓   | -
-[02](http://adventofcode.com/2016/day/2)   |   ✓   | Used enum and 2D arrays
+[01](http://adventofcode.com/2016/day/1)   |   ✓   | Verbose, but does what it's supposed to :p
+[02](http://adventofcode.com/2016/day/2)   |   ✓   | -
 [03](http://adventofcode.com/2016/day/3)   |   ✓   | -
-[04](http://adventofcode.com/2016/day/4)   |   ✓   | Regex came in handy
-[05](http://adventofcode.com/2016/day/5)   |   ✓   | Learned about MD5 hasing; runtime- part 1: 14 seconds, part 2: 36 seconds
-[06](http://adventofcode.com/2016/day/6)   |   ✓   | Lots of maps
-[07](http://adventofcode.com/2016/day/7)   |   ✓   | Substrings are gross; pretty proud of getting part 2 on my first try
+[04](http://adventofcode.com/2016/day/4)   |   ✓   | Learning regex in CPSC121 came in handy
+[05](http://adventofcode.com/2016/day/5)   |   ✓   | MD5 hashing! Runtime for part 1: 14 seconds, part 2: 36 seconds
+[06](http://adventofcode.com/2016/day/6)   |   ✓   | MAP ALL THE THINGS!
+[07](http://adventofcode.com/2016/day/7)   |   ✓   | String manipulations can be fun... sometimes
 [08](http://adventofcode.com/2016/day/8)   |       | 
 [09](http://adventofcode.com/2016/day/9)   |       | 
 [10](http://adventofcode.com/2016/day/10)  |       | 
