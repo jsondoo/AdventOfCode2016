@@ -1,16 +1,18 @@
 # AdventOfCode2017#
 My attempt at the problems at [Advent Of Code 2016](http://adventofcode.com/2016).
 
+A holiday-themed adventure with a cute storyline, where you get to solve daily problems (any way you want) with increasing difficulty as it gets closer to Christmas.
 
 
-<h1>Progress Table</h1>
-Day                                        | Done? | Notes (Comments / Stuff I learned)
+
+<h1>My Progress</h1>
+Day                                        | Done? | Comments
 -------------------------------------------|-------|-----------------------------------------------------------
-[01](http://adventofcode.com/2016/day/1)   |   ✓   | Verbose, but does what it's supposed to :p
-[02](http://adventofcode.com/2016/day/2)   |   ✓   | -
-[03](http://adventofcode.com/2016/day/3)   |   ✓   | -
+[01](http://adventofcode.com/2016/day/1)   |   ✓   | Verbose (I mean it's Java), but does its job
+[02](http://adventofcode.com/2016/day/2)   |   ✓   | Straightforward
+[03](http://adventofcode.com/2016/day/3)   |   ✓   | △ TRIANGLES △
 [04](http://adventofcode.com/2016/day/4)   |   ✓   | Learning regex in CPSC121 came in handy
-[05](http://adventofcode.com/2016/day/5)   |   ✓   | MD5 hashing! Runtime for part 1: 14 seconds, part 2: 36 seconds
+[05](http://adventofcode.com/2016/day/5)   |   ✓   | MD5 hashing! (Part 1: 14s, Part 2: 36s)
 [06](http://adventofcode.com/2016/day/6)   |   ✓   | MAP ALL THE THINGS!
 [07](http://adventofcode.com/2016/day/7)   |   ✓   | String manipulations can be fun... sometimes
 [08](http://adventofcode.com/2016/day/8)   |       | 
