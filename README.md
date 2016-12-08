@@ -12,10 +12,10 @@ Day                                        | Done? | Comments
 [02](http://adventofcode.com/2016/day/2)   |   ✓   | Straightforward
 [03](http://adventofcode.com/2016/day/3)   |   ✓   | △ TRIANGLES △
 [04](http://adventofcode.com/2016/day/4)   |   ✓   | Learning regex in CPSC121 came in handy
-[05](http://adventofcode.com/2016/day/5)   |   ✓   | MD5 hashing! (Part 1: 14s, Part 2: 36s)
+[05](http://adventofcode.com/2016/day/5)   |   ✓   | MD5 hashing (Part 1: 14s, Part 2: 36s)
 [06](http://adventofcode.com/2016/day/6)   |   ✓   | MAP ALL THE THINGS!
 [07](http://adventofcode.com/2016/day/7)   |   ✓   | String manipulations can be fun... sometimes
-[08](http://adventofcode.com/2016/day/8)   |       | 
+[08](http://adventofcode.com/2016/day/8)   |   ✓   | 2D array manipulations, fun challenge
 [09](http://adventofcode.com/2016/day/9)   |       | 
 [10](http://adventofcode.com/2016/day/10)  |       | 
 [11](http://adventofcode.com/2016/day/11)  |       | 
