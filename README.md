@@ -15,7 +15,7 @@ Day                                        | Done? | Comments
 [05](http://adventofcode.com/2016/day/5)   |   ✓   | MD5 hashing (Part 1: 14s, Part 2: 36s)
 [06](http://adventofcode.com/2016/day/6)   |   ✓   | MAP ALL THE THINGS!
 [07](http://adventofcode.com/2016/day/7)   |   ✓   | String manipulations can be fun... sometimes
-[08](http://adventofcode.com/2016/day/8)   |   ✓   | 2D array manipulations, fun challenge
+[08](http://adventofcode.com/2016/day/8)   |   ✓   | 2D array manipulations; [Visualization](/Day8/day8visualization.gif)
 [09](http://adventofcode.com/2016/day/9)   |       | 
 [10](http://adventofcode.com/2016/day/10)  |       | 
 [11](http://adventofcode.com/2016/day/11)  |       | 
