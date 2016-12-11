@@ -33,3 +33,4 @@ Day                                        | Done? | Comments
 [23](http://adventofcode.com/2016/day/23)  |       | 
 [24](http://adventofcode.com/2016/day/24)  |       | 
 [25](http://adventofcode.com/2016/day/25)  |       |
+-Finals getting in the way :(
