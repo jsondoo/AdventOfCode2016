@@ -19,7 +19,7 @@ Day                                        | Done? | Comments
 [09](http://adventofcode.com/2016/day/9)   |   ✓   | More string manipulations - did part2 recursively
 [10](http://adventofcode.com/2016/day/10)  |   ✓   | -
 [11](http://adventofcode.com/2016/day/11)  |       | 
-[12](http://adventofcode.com/2016/day/12)  |       | 
+[12](http://adventofcode.com/2016/day/12)  |   ✓   | Assembunny code
 [13](http://adventofcode.com/2016/day/13)  |       | 
 [14](http://adventofcode.com/2016/day/14)  |       | 
 [15](http://adventofcode.com/2016/day/15)  |       | 
