@@ -8,16 +8,16 @@ A holiday-themed adventure with a cute storyline, where you get to solve daily p
 <h1>My Progress</h1>
 Day                                        | Done? | Comments
 -------------------------------------------|-------|-----------------------------------------------------------
-[01](http://adventofcode.com/2016/day/1)   |   ✓   | Verbose (I mean it's Java), but does its job
-[02](http://adventofcode.com/2016/day/2)   |   ✓   | Straightforward
-[03](http://adventofcode.com/2016/day/3)   |   ✓   | △ TRIANGLES △
-[04](http://adventofcode.com/2016/day/4)   |   ✓   | Learning regex in CPSC121 came in handy
+[01](http://adventofcode.com/2016/day/1)   |   ✓   | -
+[02](http://adventofcode.com/2016/day/2)   |   ✓   | -
+[03](http://adventofcode.com/2016/day/3)   |   ✓   | -
+[04](http://adventofcode.com/2016/day/4)   |   ✓   | -
 [05](http://adventofcode.com/2016/day/5)   |   ✓   | MD5 hashing (Part 1: 14s, Part 2: 36s)
 [06](http://adventofcode.com/2016/day/6)   |   ✓   | MAP ALL THE THINGS!
 [07](http://adventofcode.com/2016/day/7)   |   ✓   | Manipulating strings
 [08](http://adventofcode.com/2016/day/8)   |   ✓   | 2D array manipulations; [Visualization](/Day8/day8visualization.gif)
 [09](http://adventofcode.com/2016/day/9)   |   ✓   | More string manipulations - did part2 recursively
-[10](http://adventofcode.com/2016/day/10)  |       | 
+[10](http://adventofcode.com/2016/day/10)  |   ✓   | -
 [11](http://adventofcode.com/2016/day/11)  |       | 
 [12](http://adventofcode.com/2016/day/12)  |       | 
 [13](http://adventofcode.com/2016/day/13)  |       | 
